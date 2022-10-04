@@ -49,4 +49,4 @@ Os métodos são:
  - CancelarReserva(Quarto suite, DateTime entrada, DateTime saida, string nomeCompleto): Cancela uma reserva, removendo ela da propriedade Reservas
 
 ## Vídeo
-Por favor, para ver o sistema em funcionamento, acesse esse link: https://youtu.be/LPomfbCOBRQ
+Por favor, para ver o sistema em funcionamento, acesse esse link: https://www.youtube.com/watch?v=HnPwitdQnNw

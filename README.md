@@ -15,7 +15,7 @@ O seu programa deverá cálcular corretamente os valores dos métodos da classe 
 3. Caso seja feita uma reserva igual ou maior que 10 dias, deverá ser concedido um desconto de 10% no valor da diária.
 
 
-![Diagrama de classe hotel](ReservaHotel\diagrama_classe_inicial.png)
+![Diagrama de classe hotel](diagrama_classe_inicial.png)
 
 ## Solução Indicada
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
@@ -29,4 +29,4 @@ um relatório sobre o hotel.
 Os dois projetos utilizam o pacote NewtonSoft para serializar e descerializar objetos, com isso é possível salvar as informações e manter uma comunicação entre eles.
 
 ## Vídeo
-Por favor, para ver o sistema em funcionamento, acesse esse link: https://youtu.be/LPomfbCOBRQ
+Por favor, para ver o sistema em funcionamento, acesse esse link: https://www.youtube.com/watch?v=HnPwitdQnNw
