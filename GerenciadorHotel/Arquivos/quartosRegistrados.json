@@ -1,0 +1,32 @@
+[
+  {
+    "Capacidade": 2,
+    "Tipo": "Normal",
+    "ValorDiario": 70.0,
+    "Id": 1
+  },
+  {
+    "Capacidade": 3,
+    "Tipo": "Normal",
+    "ValorDiario": 90.0,
+    "Id": 2
+  },
+  {
+    "Capacidade": 4,
+    "Tipo": "Normal",
+    "ValorDiario": 110.0,
+    "Id": 3
+  },
+  {
+    "Capacidade": 1,
+    "Tipo": "Plus",
+    "ValorDiario": 50.0,
+    "Id": 4
+  },
+  {
+    "Capacidade": 2,
+    "Tipo": "Queen",
+    "ValorDiario": 80.0,
+    "Id": 5
+  }
+]

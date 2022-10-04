@@ -1,0 +1,159 @@
+[
+  {
+    "Entrada": "2022-10-28T00:00:00",
+    "Saida": "2022-11-04T00:00:00",
+    "Hospedes": [
+      {
+        "Nome": "Vinícius",
+        "Sobrenome": "Alves",
+        "NomeCompleto": "Vinícius Alves"
+      }
+    ],
+    "ValorTotal": 560.0,
+    "Id": 5
+  },
+  {
+    "Entrada": "2022-10-05T00:00:00",
+    "Saida": "2022-10-08T00:00:00",
+    "Hospedes": [
+      {
+        "Nome": "Rodrigo",
+        "Sobrenome": "Dias",
+        "NomeCompleto": "Rodrigo Dias"
+      },
+      {
+        "Nome": "Roberto",
+        "Sobrenome": "Machado",
+        "NomeCompleto": "Roberto Machado"
+      }
+    ],
+    "ValorTotal": 240.0,
+    "Id": 5
+  },
+  {
+    "Entrada": "2022-10-05T00:00:00",
+    "Saida": "2022-10-08T00:00:00",
+    "Hospedes": [
+      {
+        "Nome": "Miguel",
+        "Sobrenome": "Hathaway",
+        "NomeCompleto": "Miguel Hathaway"
+      },
+      {
+        "Nome": "Helena",
+        "Sobrenome": "Silva",
+        "NomeCompleto": "Helena Silva"
+      }
+    ],
+    "ValorTotal": 210.0,
+    "Id": 1
+  },
+  {
+    "Entrada": "2022-10-15T00:00:00",
+    "Saida": "2022-10-20T00:00:00",
+    "Hospedes": [
+      {
+        "Nome": "Davi",
+        "Sobrenome": "Clifford",
+        "NomeCompleto": "Davi Clifford"
+      },
+      {
+        "Nome": "Alice",
+        "Sobrenome": "Clifford",
+        "NomeCompleto": "Alice Clifford"
+      }
+    ],
+    "ValorTotal": 350.0,
+    "Id": 1
+  },
+  {
+    "Entrada": "2022-10-17T00:00:00",
+    "Saida": "2022-10-25T00:00:00",
+    "Hospedes": [
+      {
+        "Nome": "Gabriel",
+        "Sobrenome": "Howard",
+        "NomeCompleto": "Gabriel Howard"
+      },
+      {
+        "Nome": "João",
+        "Sobrenome": "Howard",
+        "NomeCompleto": "João Howard"
+      },
+      {
+        "Nome": "Pedro",
+        "Sobrenome": "Machado",
+        "NomeCompleto": "Pedro Machado"
+      }
+    ],
+    "ValorTotal": 720.0,
+    "Id": 2
+  },
+  {
+    "Entrada": "2022-11-01T00:00:00",
+    "Saida": "2022-11-11T00:00:00",
+    "Hospedes": [
+      {
+        "Nome": "Simone",
+        "Sobrenome": "Silva",
+        "NomeCompleto": "Simone Silva"
+      },
+      {
+        "Nome": "Roberta",
+        "Sobrenome": "Silva",
+        "NomeCompleto": "Roberta Silva"
+      },
+      {
+        "Nome": "Laura",
+        "Sobrenome": "Silva",
+        "NomeCompleto": "Laura Silva"
+      }
+    ],
+    "ValorTotal": 810.00,
+    "Id": 2
+  },
+  {
+    "Entrada": "2022-11-01T00:00:00",
+    "Saida": "2022-11-15T00:00:00",
+    "Hospedes": [
+      {
+        "Nome": "Roberto",
+        "Sobrenome": "Machado",
+        "NomeCompleto": "Roberto Machado"
+      }
+    ],
+    "ValorTotal": 630.00,
+    "Id": 4
+  },
+  {
+    "Entrada": "2022-12-05T00:00:00",
+    "Saida": "2022-12-09T00:00:00",
+    "Hospedes": [
+      {
+        "Nome": "Valentina",
+        "Sobrenome": "Lennox",
+        "NomeCompleto": "Valentina Lennox"
+      }
+    ],
+    "ValorTotal": 200.0,
+    "Id": 4
+  },
+  {
+    "Entrada": "2023-01-01T00:00:00",
+    "Saida": "2023-01-05T00:00:00",
+    "Hospedes": [
+      {
+        "Nome": "Maria",
+        "Sobrenome": "Parker",
+        "NomeCompleto": "Maria Parker"
+      },
+      {
+        "Nome": "Guilherme",
+        "Sobrenome": "Silva",
+        "NomeCompleto": "Guilherme Silva"
+      }
+    ],
+    "ValorTotal": 320.0,
+    "Id": 5
+  }
+]

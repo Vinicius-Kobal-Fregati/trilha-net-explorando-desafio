@@ -1,0 +1,17 @@
+C:\Users\Win10\Desktop\Projetos Pottencial\trilha-net-explorando-desafio\GerenciadorHotel\obj\Debug\net6.0\GerenciadorHotel.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\Projetos Pottencial\trilha-net-explorando-desafio\GerenciadorHotel\obj\Debug\net6.0\GerenciadorHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Desktop\Projetos Pottencial\trilha-net-explorando-desafio\GerenciadorHotel\obj\Debug\net6.0\GerenciadorHotel.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\Projetos Pottencial\trilha-net-explorando-desafio\GerenciadorHotel\obj\Debug\net6.0\GerenciadorHotel.AssemblyInfo.cs
+C:\Users\Win10\Desktop\Projetos Pottencial\trilha-net-explorando-desafio\GerenciadorHotel\obj\Debug\net6.0\GerenciadorHotel.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\Projetos Pottencial\trilha-net-explorando-desafio\GerenciadorHotel\bin\Debug\net6.0\GerenciadorHotel.exe
+C:\Users\Win10\Desktop\Projetos Pottencial\trilha-net-explorando-desafio\GerenciadorHotel\bin\Debug\net6.0\GerenciadorHotel.deps.json
+C:\Users\Win10\Desktop\Projetos Pottencial\trilha-net-explorando-desafio\GerenciadorHotel\bin\Debug\net6.0\GerenciadorHotel.runtimeconfig.json
+C:\Users\Win10\Desktop\Projetos Pottencial\trilha-net-explorando-desafio\GerenciadorHotel\bin\Debug\net6.0\GerenciadorHotel.dll
+C:\Users\Win10\Desktop\Projetos Pottencial\trilha-net-explorando-desafio\GerenciadorHotel\bin\Debug\net6.0\GerenciadorHotel.pdb
+C:\Users\Win10\Desktop\Projetos Pottencial\trilha-net-explorando-desafio\GerenciadorHotel\obj\Debug\net6.0\GerenciadorHotel.dll
+C:\Users\Win10\Desktop\Projetos Pottencial\trilha-net-explorando-desafio\GerenciadorHotel\obj\Debug\net6.0\refint\GerenciadorHotel.dll
+C:\Users\Win10\Desktop\Projetos Pottencial\trilha-net-explorando-desafio\GerenciadorHotel\obj\Debug\net6.0\GerenciadorHotel.pdb
+C:\Users\Win10\Desktop\Projetos Pottencial\trilha-net-explorando-desafio\GerenciadorHotel\obj\Debug\net6.0\GerenciadorHotel.genruntimeconfig.cache
+C:\Users\Win10\Desktop\Projetos Pottencial\trilha-net-explorando-desafio\GerenciadorHotel\obj\Debug\net6.0\ref\GerenciadorHotel.dll
+C:\Users\Win10\Desktop\Projetos Pottencial\trilha-net-explorando-desafio\GerenciadorHotel\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Win10\Desktop\Projetos Pottencial\trilha-net-explorando-desafio\GerenciadorHotel\obj\Debug\net6.0\GerenciadorHotel.csproj.CopyComplete

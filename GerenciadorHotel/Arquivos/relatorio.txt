@@ -1,0 +1,51 @@
+--- Relatório do hotel ---
+Existem 5 quartos!
+O 1° é do tipo Normal, ele suporta 2 pessoas e tem um custo diário de R$: 70,00.
+As reservas ativas desse quarto são:
+Entrada no dia 05/10/2022, saída no dia 08/10/2022. Tendo um lucro de R$: 210,00
+Os hóspedes são:
+ - Miguel Hathaway
+ - Helena Silva
+Entrada no dia 15/10/2022, saída no dia 20/10/2022. Tendo um lucro de R$: 350,00
+Os hóspedes são:
+ - Davi Clifford
+ - Alice Clifford
+O lucro total desse quarto é de R$ 560,00
+O 2° é do tipo Normal, ele suporta 3 pessoas e tem um custo diário de R$: 90,00.
+As reservas ativas desse quarto são:
+Entrada no dia 17/10/2022, saída no dia 25/10/2022. Tendo um lucro de R$: 720,00
+Os hóspedes são:
+ - Gabriel Howard
+ - João Howard
+ - Pedro Machado
+Entrada no dia 01/11/2022, saída no dia 11/11/2022. Tendo um lucro de R$: 810,00
+Os hóspedes são:
+ - Simone Silva
+ - Roberta Silva
+ - Laura Silva
+O lucro total desse quarto é de R$ 1530,00
+O 3° é do tipo Normal, ele suporta 4 pessoas e tem um custo diário de R$: 110,00.
+O 4° é do tipo Plus, ele suporta 1 pessoas e tem um custo diário de R$: 50,00.
+As reservas ativas desse quarto são:
+Entrada no dia 01/11/2022, saída no dia 15/11/2022. Tendo um lucro de R$: 630,00
+Os hóspedes são:
+ - Roberto Machado
+Entrada no dia 05/12/2022, saída no dia 09/12/2022. Tendo um lucro de R$: 200,00
+Os hóspedes são:
+ - Valentina Lennox
+O lucro total desse quarto é de R$ 830,00
+O 5° é do tipo Queen, ele suporta 2 pessoas e tem um custo diário de R$: 80,00.
+As reservas ativas desse quarto são:
+Entrada no dia 28/10/2022, saída no dia 04/11/2022. Tendo um lucro de R$: 560,00
+Os hóspedes são:
+ - Vinícius Alves
+Entrada no dia 05/10/2022, saída no dia 08/10/2022. Tendo um lucro de R$: 240,00
+Os hóspedes são:
+ - Rodrigo Dias
+ - Roberto Machado
+Entrada no dia 01/01/2023, saída no dia 05/01/2023. Tendo um lucro de R$: 320,00
+Os hóspedes são:
+ - Maria Parker
+ - Guilherme Silva
+O lucro total desse quarto é de R$ 1120,00
+O lucro total do hotel será de R$ 4040,00

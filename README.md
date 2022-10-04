@@ -15,7 +15,18 @@ O seu programa deverá cálcular corretamente os valores dos métodos da classe 
 3. Caso seja feita uma reserva igual ou maior que 10 dias, deverá ser concedido um desconto de 10% no valor da diária.
 
 
-![Diagrama de classe estacionamento](diagrama_classe_hotel.png)
+![Diagrama de classe hotel](ReservaHotel\diagrama_classe_inicial.png)
+
+## Solução Indicada
+O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
 
 ## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+Criou-se uma Solution (agrupamento de projetos), com isso temos dois projetos, o ReservaHotel e GerenciadorHotel.
+O primeiro é utilizado pelo cliente, nele o cliente pode fazer sua reserva, escolhendo a suíte, data de entrada e saída e
+adicionar hóspedes.
+Já o segundo é voltado para os funcionários do hotel, nele podemos adicionar e remover suítes, cancelar reservas e gerar
+um relatório sobre o hotel.
+Os dois projetos utilizam o pacote NewtonSoft para serializar e descerializar objetos, com isso é possível salvar as informações e manter uma comunicação entre eles.
+
+## Vídeo
+Por favor, para ver o sistema em funcionamento, acesse esse link: https://youtu.be/LPomfbCOBRQ
