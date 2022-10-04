@@ -91,7 +91,7 @@ namespace ReservaHotel.Models
             }
             catch (Exception)
             {
-                Console.WriteLine("Número de hóspedes maior que a capacidade da suite, por favor, escolha uma maior.");
+                Console.WriteLine("Número de hóspedes maior que a capacidade da suíte, por favor, escolha uma maior.");
             }
         }
 
@@ -321,7 +321,7 @@ namespace ReservaHotel.Models
                             (entrada <= dado.Saida && saida >= dado.Saida) ||
                             (entrada <= dado.Entrada && saida >= dado.Entrada))
                     {
-                        Console.WriteLine("A data de entrada e saida não pode estar entre as já reservadas, " +
+                        Console.WriteLine("A data de entrada e saída não pode estar entre as já reservadas, " +
                                           "também não podem englobar outras datas já reservadas. Por favor, " +
                                           "escolha outra");
                         return false;

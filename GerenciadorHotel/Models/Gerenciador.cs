@@ -285,7 +285,7 @@ namespace GerenciadorHotel.Models
         /// <summary>
         /// Cancela uma reserva
         /// </summary>
-        /// <param name="suite">Suite a qual a reserva está cadastrada</param>
+        /// <param name="suite">Suíte a qual a reserva está cadastrada</param>
         /// <param name="entrada">Data de entrada da reserva</param>
         /// <param name="saida">Data de saída da reserva</param>
         /// <param name="nomeCompleto">Nome completo da pessoa responsável pela a reserva</param>
@@ -295,7 +295,7 @@ namespace GerenciadorHotel.Models
 
             if (suite.Id < 1)
             {
-                Console.WriteLine("Suite não válida");
+                Console.WriteLine("Suíte não válida");
             }
 
             for (int i = 0; i < Reservas.Count; i++)

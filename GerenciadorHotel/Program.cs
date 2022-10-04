@@ -46,7 +46,7 @@ while (exibirMenu)
                     {
                         Console.WriteLine("Digite  a data de entrada, seguindo o padrão dia, mês e ano separados por barra. Por exemplo, 25/09/2022");
                         DateTime.TryParse(Console.ReadLine(), out DateTime diaEntrada);
-                        Console.WriteLine("Digite  a data de saida, seguindo o padrão dia, mês e ano separados por barra. Por exemplo, 25/09/2022");
+                        Console.WriteLine("Digite  a data de saída, seguindo o padrão dia, mês e ano separados por barra. Por exemplo, 25/09/2022");
                         DateTime.TryParse(Console.ReadLine(), out DateTime diaSaida);
                         Console.WriteLine("Digite o nome completo do responsável");
                         string nomeCompleto = Console.ReadLine();

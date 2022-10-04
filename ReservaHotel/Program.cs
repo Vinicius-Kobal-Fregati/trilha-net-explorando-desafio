@@ -54,7 +54,7 @@ while (exibirMenu)
             Console.WriteLine("Temos essas suites disponíveis:");
             if(reserva.ListarSuites())
             {
-                Console.WriteLine("Digite o tipo de suite que você quer");
+                Console.WriteLine("Digite o tipo de suíte que você quer");
                 string tipoSuite = Console.ReadLine();
                 Console.WriteLine("Digite a capacidade que você deseja");
                 Int32.TryParse(Console.ReadLine(), out int capacidade);
@@ -74,7 +74,7 @@ while (exibirMenu)
                 reserva.ListarDatasCadastradas();
                 Console.WriteLine("Digite a data de entrada no formato dia, mês e ano, dessa forma: 25/09/2022");
                 DateTime.TryParse(Console.ReadLine(), out DateTime entrada);
-                Console.WriteLine("Digite a data de saida no formato dia, mês e ano, dessa forma: 25/09/2022");
+                Console.WriteLine("Digite a data de saída no formato dia, mês e ano, dessa forma: 25/09/2022");
                 DateTime.TryParse(Console.ReadLine(), out DateTime saida);
                 reserva.AdicionarDiasReservados(entrada, saida);
             }
