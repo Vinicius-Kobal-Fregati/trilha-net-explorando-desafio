@@ -29,4 +29,4 @@ um relatório sobre o hotel.
 Os dois projetos utilizam o pacote NewtonSoft para serializar e descerializar objetos, com isso é possível salvar as informações e manter uma comunicação entre eles.
 
 ## Vídeo
-Por favor, para ver o sistema em funcionamento, acesse esse link: https://www.youtube.com/watch?v=HnPwitdQnNw
+Por favor, para ver o sistema em funcionamento, acesse esse link: https://www.youtube.com/watch?v=3CcQQ8sdSIc
