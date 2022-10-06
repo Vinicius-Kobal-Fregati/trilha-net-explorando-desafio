@@ -20,7 +20,7 @@ O ValorDiario é o valor a ser cobrado por dia de permanência na suíte, seu ti
 O Id serve para correlacionar uma suíte com as reservas.
 
 ### ReservaGerenciador
-Essa é uma classe de apoio, ela é utilizada na classe Reserva para obter as reservas já cadastradas pelo sistema, ou seja, descerializa-se o arquivo e passa essas informações para a classe Reserva.
+Essa é uma classe de apoio, ela é utilizada na classe Reserva para obter as reservas já cadastradas pelo sistema, ou seja, desserializa-se o arquivo e passa essas informações para a classe Reserva.
 Ela possuí quatro propriedades: Entrada (DateTime), Saida (DateTime), Hospedes (List<Pessoa>), Valor (decimal) e Id (int).
 A Entrada é o dia de check-in do hotel.
 A Saída é o dia de Check-out do hotel.
