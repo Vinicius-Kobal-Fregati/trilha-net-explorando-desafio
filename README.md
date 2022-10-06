@@ -26,7 +26,7 @@ O primeiro é utilizado pelo cliente, nele o cliente pode fazer sua reserva, esc
 adicionar hóspedes.
 Já o segundo é voltado para os funcionários do hotel, nele podemos adicionar e remover suítes, cancelar reservas e gerar
 um relatório sobre o hotel.
-Os dois projetos utilizam o pacote NewtonSoft para serializar e descerializar objetos, com isso é possível salvar as informações e manter uma comunicação entre eles.
+Os dois projetos utilizam o pacote NewtonSoft para serializar e desserializar objetos, com isso é possível salvar as informações e manter uma comunicação entre eles.
 
 ## Vídeo
 Por favor, para ver o sistema em funcionamento, acesse esse link: https://www.youtube.com/watch?v=3CcQQ8sdSIc
